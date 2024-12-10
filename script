@@ -1,0 +1,5 @@
+<script>
+    function konfirmasi(namaGame, nominal) {
+        alert(`Anda akan melakukan top-up ${nominal} di ${namaGame}`);
+    }
+</script>
